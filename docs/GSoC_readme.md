@@ -1,7 +1,7 @@
  Synchronize R API with the Python Data Retriever API and improve usability of R package
 ==============
 
-The Data Retriever handles downloading, pre-processing and storing of datasets in the user environment. It eases life of analysts and gives a head start by providing clean and normalized (analysis - ready) data with the goal that the users can reserve their time for studying/analyzing. The Data Retriever is written in Python and can be accessed by three major data science languages - Python(Retriever), R(Rdataretriever) and Julia(Retriever.jl).
+The Data Retriever handles downloading, pre-processing and storing of datasets in the user environment. The Data Retriever is written in Python and can be accessed by three major data science languages - Python(Retriever), R(Rdataretriever) and Julia(Retriever.jl).
 
 Technical Details
 --------
